@@ -1,0 +1,7 @@
+# Ansible inventory
+all:
+  children:
+    linode:
+      hosts:
+    proxmox:
+      hosts:

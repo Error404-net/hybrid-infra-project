@@ -1,0 +1,4 @@
+# Main Ansible playbook
+- hosts: all
+  roles:
+    - common
