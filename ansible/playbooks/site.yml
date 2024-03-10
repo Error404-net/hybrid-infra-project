@@ -1,0 +1,1 @@
+---\n- hosts: all\n  tasks:\n    - name: Echo Hello\n      command: echo "Hello World"
